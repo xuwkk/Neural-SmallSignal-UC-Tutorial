@@ -1,0 +1,11 @@
+name: smallsignal_sco_native
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - git
+  - ipykernel
+  - kvxopt=1.3.2
+  - pip
+  - pip:
+      - -r requirements.txt

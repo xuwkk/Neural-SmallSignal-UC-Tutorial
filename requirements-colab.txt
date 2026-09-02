@@ -1,0 +1,7 @@
+# Dependencies installed by the cells marked "GOOGLE COLAB ONLY".
+andes @ git+https://github.com/CURENT/andes.git@eda5163c9ee8d19945a1dd5d1771fec5da608c27
+kvxopt>=1.3.2,<1.4
+tqdm>=4.66
+torch>=2.2
+cvxpy>=1.7.5
+ncet>=0.1.0
