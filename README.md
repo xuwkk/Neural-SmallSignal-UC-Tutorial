@@ -43,8 +43,12 @@ The Colab virtual machine is temporary. Download files from `outputs/` before en
 
 The tutorial has been presented at the 3rd International Summer School on IBR-dominated power systems, which was held in Glasgow on Sept. 2026.
 
-For the complete model design and implementation notes, see [tutorial_design_and_instructions.md](tutorial_design_and_instructions.md).
+For the complete model design and implementation notes of the tutorial, see [tutorial_design_and_instructions.md](learning_material/tutorial_design_and_instructions.md).
+
+Link to the NCET documentation: [NCET](https://github.com/xuwkk/ncet).
 
 For references on related topics, see
+
 [1] W. Xu, Z. Chu and F. Teng, "Learning-Augmented Power System Operations: A Unified Optimization View," in IEEE Transactions on Power Systems, doi: 10.1109/TPWRS.2026.3726363.
+
 [2] W. Xu, H. Jia, Y. Wang, N. Zhang and F. Teng, "Input Convex Neural Network as a Surrogate in Stability-Constrained Optimization for IBR-Dominated Power Systems," in IEEE Transactions on Power Systems, vol. 41, no. 5, pp. 4037-4040, Sept. 2026, doi: 10.1109/TPWRS.2026.3709567.
